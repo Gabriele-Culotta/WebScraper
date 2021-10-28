@@ -1,10 +1,9 @@
 {
-  "name": "webscarping---2-prova",
+  "name": "git",
   "version": "1.0.0",
-  "description": "",
-  "main": "webscarping",
+  "main": "webscraping",
   "scripts": {
-    "start": "nodemon webscarping.js"
+    "start": "nodemon webscraping.js"
   },
   "author": "Gabriele Culotta",
   "license": "ISC",
@@ -12,5 +11,15 @@
     "axios": "^0.23.0",
     "cheerio": "^1.0.0-rc.10",
     "express": "^4.17.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gabriele-Culotta/WebScraper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Gabriele-Culotta/WebScraper/issues"
+  },
+  "homepage": "https://github.com/Gabriele-Culotta/WebScraper#readme",
+  "description": ""
 }
