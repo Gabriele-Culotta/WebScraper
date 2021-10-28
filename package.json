@@ -1,0 +1,16 @@
+{
+  "name": "webscarping---2-prova",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webscarping",
+  "scripts": {
+    "start": "nodemon webscarping.js"
+  },
+  "author": "Gabriele Culotta",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.23.0",
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.1"
+  }
+}
